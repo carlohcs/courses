@@ -1,0 +1,135 @@
+# Manual dos diretores
+
+### Máximas
+
+"Notadamente não há uma fórmula mágica para se ganhar o jogo." "Uma estratégia bem-sucedida em um momento pode não ser adequada em outro"
+
+Muitas informações contidas neste manual só serão plenamente compreendidas na prática do jogo e,
+à medida que o aprendizado se consolida, mais fácil se torna o processo de gestão da empresa. Assim
+ocorre no mundo real: depois que vivenciamos ou experimentamos algumas situações, nos sentimonos
+mais confortáveis em nossas ações e nossas decisões.
+
+### Características / dinâmica / participação das equipes
+
+### Regras / Explicações / Funcionamento do ambiente  
+
+### Atividades / Como as equipes trabalham
+
+-------------------------------------------------------------------------------
+
+## O Jogo
+
+- Uma industria. 
+
+- Você é o diretor.
+
+- Responsável por: 
+	- tomar decisões de produção;
+	- comprar máquinas;
+	- contratar operários;
+ 	- escolher fornecedores;
+	- estudar o comportamento do mercado
+	- estar especialmente, atento às mudanças no ambiente. 
+
+### Objetivo
+
+Obter o melhor desepenho.
+
+Avaliação principal é a medida pelo retorno do investimento.
+
+**O índice utilizado para ranqueamento das empresas será o de rentabilidade do ativo acumulado** [Ativo -> São todos os Bens, Direitos e Valores a Receber de uma entidade]
+
+### Elementos do jogo
+
+A simulação é um jogo interativo baseado em ambiente web e envolve quatro elementos proncipais:
+
+- As equipes de diretores;
+- O simulador;
+- O Jornal;
+- Manual dos Diretores (este documento)
+
+#### Diretores
+
+Uma equipe de diretores que se organizará com tomada de decisões.
+
+#### Dinâmica do jogo
+
+Cada tomada de decisão implica num resultado. Nós os diretores, temos responsabilidade por essas tomadas. Com isso, temos o objetivo de canalizar essas tomadas em prol do bom desempenho da empresa.
+
+#### Mediador do jogo 
+
+O mediador é responsável por fazer o papel de:
+
+- Banco Central;
+- Definições das taxas de juros;
+- Disponibilidade e limites de crédito;
+- Sindicato ou Associação de Operários;
+- Questões relacionadas a salário;
+- Disponibilidade para contratações;
+- Agência de propaganda;
+	- Definição de preços e inserções de publicidade na mídia.
+- Fornecedores e políticas de preço;
+- Disponibilidade de matéria prima, prazos e descontos.
+- Controlar a agenda;
+- Informando prazos para tomadas de decisões;
+- Pode cobrar consultorias;
+- Multar e premiar equipes;
+
+#### Fontes de informações
+
+As empresas possuem três fontes de informações:
+
+- O Manual de diretores;
+- Relatórios Contábeis, Financeiros, Operacionais e de Avaliação;
+- O Jornal;
+
+**O Manual dos Diretores (Bíblia)** deve ser lido atentamente e estar sempre à mão, pois é aqui que se
+encontram das instruções sobre as regras do jogo e sobre as variáveis que estão em jogo.
+
+**Os Relatórios (Status)** são emitidos pelo Simulador e servem de base para análise e para tomada de decisões.
+Eles mostram como está a situação da empresa nos vários aspectos de atuação, como a produção, o
+financeiro, o marketing e também mostram, quando habilitado, o resultado o planejamento feito pela
+empresa.
+
+**O Jornal (O que impacta)** apresenta as principais mudanças no ambiente em que a empresa atua. Podem ocorrer, por
+exemplo, greves dos empregados, aumento no preço dos insumos, variação das taxas de juros,
+limitações ou incentivo ao crédito, entre outros fatos. Novidades ou dicas de oportunidades para boas
+escolhas e administrar melhor a empresa podem ser percebidas através de uma leitura atenta do jornal.
+Deve-se estar atento para os seguintes 
+
+
+**Dicas**
+
+- Um período corresponde a um trimestre.
+- Todas as equipes devem trabalhar em sinergia. Pois todas são concorrentes. E prazos devem ser respeitados.
+- A duração do jogo é determinada pelo mediador, e nem sempre é sabido quando o jogo termina.
+- A equipe ganhadora do jogo deverá se destacar no critério de melhor **rentabilidade do ativo (acumulado)**, ou por um outro critério para da definição final da ordem de classificação das demais equipes.
+
+### O Mundo Simulado
+
+Em suma, o sistema simula um ambiente que **compreende um mercado (interno e externo)**, que é **dividido em regiões**.
+
+- **Cada região há um mercado consumidor (demanda) e não há interação entre elas, ou seja, cliente potencial de uma região não compra em outra região. Ele não é influenciado pelas estratégias de marketing em outras regiões**.
+
+- **Significa que a empresa, para vender, deverá divulgar seu produto em determinada região através da propaganda. Deverá também descobrir qual a melhor combinação de preço e prazo que pode praticar. Neste processo a empresa obtém sua receita e, depois de verificados seus custos e despesas, avalia o resultando do período.**
+
+#### Personagens atuantes no simulador
+
+- **Governo**: 
+	- Regula a conjuntura econômica, define alíquotas para o imposto de renda e CSLL; 
+	- Estabelece a taxa básica de juros;
+	- Fixa câmbio;
+	- Controla/Limita preços e regular o uso de inserções de propaganda;
+- **Banco**:
+	- Disponibiliza linhas de crédito (dinheiro) para:
+		- Investimento;
+		- Capital de giro;
+	- Capta recursos das empresas através de aplicações financeiras;
+- **Fornecedores**:
+	- Suprem as necessidades de insumos, máquinas, terrenos e depósitos;
+	- Definem descontos para compras de materiais em grandes volumes, bem como acréscimos para compras a prazo;
+- **Agência de Publicidade**:
+	- Define o preço das inserções de propaganda.
+- **Sindicato dos operários**:
+	- Negócia com os empresários melhores salários, ritmos de trabalho (horas extras), contratações e demissões.
+
